@@ -162,9 +162,9 @@ sup {
 }
 
 a {
-  color: #F85C70;
-  text-decoration: none;
-  background-color: transparent;
+    color: #003060;
+    text-decoration: none;
+    background-color: transparent;
 }
 
 a:hover {
@@ -3204,8 +3204,8 @@ fieldset:disabled a.btn {
 }
 
 .btn-outline-danger {
-  color: #F85C70;
-  border-color: #F85C70;
+    color: #003060;
+    border-color: #003060;
 }
 
 .btn-outline-danger:hover {
@@ -7192,7 +7192,7 @@ button.bg-warning:focus {
 }
 
 .bg-danger {
-  background-color: #F85C70 !important;
+    background-color: #0E86D4 !important;
 }
 
 a.bg-danger:hover, a.bg-danger:focus,
@@ -10817,7 +10817,7 @@ a.text-warning:hover, a.text-warning:focus {
 }
 
 .text-danger {
-  color: #F85C70 !important;
+    color: #003060 !important;
 }
 
 a.text-danger:hover, a.text-danger:focus {
@@ -11003,10 +11003,10 @@ p {
 }
 
 .line {
-  display: block;
-  width: 25px;
-  height: 1.5px;
-  background-color: #F85C70;
+    display: block;
+    width: 25px;
+    height: 1.5px;
+    background-color: #0e86d4;
 }
 
 .breadcrumb {
